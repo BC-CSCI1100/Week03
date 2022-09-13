@@ -691,7 +691,7 @@ NOTE: the special type `unit` is the type of nothing. Any function with a return
 
 ###  Exercises
 
-Open the accompanying `src` folder and create a new file called `exercises.py`. Define the following functions.
+Open the accompanying `src` folder and open the file `exercises.py`. Define the following functions.
 
 1. Write a function `isEven : int -> bool` which when given a call `isEven(n)` returns `True` if `n` is an even number and `False` if `n` is an odd number.
 
